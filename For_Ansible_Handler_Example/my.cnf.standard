@@ -19,4 +19,4 @@ log-basename=mysqld
 
 # Enable logging by default to help find problems
 general-log
-log-slow-queries
+
